@@ -1,1 +1,1 @@
-alert (Yan)
+alert ('Yan')
