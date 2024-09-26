@@ -1,4 +1,4 @@
-let tempo = promopt ('que horas são');
+let tempo = promopt ('qual o tempo?');
 document.write (tempo);
 PARSEINT (prompt('tempo'))
 console.log (tempo)
