@@ -1,6 +1,6 @@
 let tempo = prompt('qual o tempo?');
 document.write (tempo);
-PARSEINT (prompt('tempo'))
+PARSEINT(prompt('tempo'))
 console.log (tempo)
 
 function soma (num1, num2){
