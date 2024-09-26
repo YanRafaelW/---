@@ -1,5 +1,5 @@
-let idade = promopt ('qual a idade');
-document.write idade;
+let  = promopt ('');
+document.write ;
 
 function soma (num1, num2){
     return num1 + num2;
