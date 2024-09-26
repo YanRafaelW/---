@@ -1,4 +1,4 @@
-let tempo = prompt('qual o tempo?');
+let tempo = prompt('quer horas são');
 document.write (tempo);
 PARSEINT (prompt('tempo'));
 console.log (tempo)
