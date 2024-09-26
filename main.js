@@ -1,7 +1,7 @@
-let tempo = prompt('quer horas são');
-document.write (tempo);
-PARSEINT (prompt('tempo'));
-console.log (tempo)
+let  = prompt('');
+document.write ();
+PARSEINT (prompt(''));
+
 
 function soma (num1, num2){
     return num1 + num2;
