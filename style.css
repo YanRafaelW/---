@@ -43,3 +43,11 @@ footer p {
     border-radius: 0.6rem;
     font-size: 1vw;
 }
+
+.cartao__conteudo__pergunta p {
+    font-weight: 500;
+}
+
+.cartao__conteudo__resposta p {
+    font-weight: 700;
+}
